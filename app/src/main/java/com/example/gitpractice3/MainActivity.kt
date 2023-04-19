@@ -8,7 +8,5 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("this is contained in my second commit")
-        for i = 20 do:
-        write "dododod"
     }
 }
